@@ -1,0 +1,21 @@
+.amarelo{
+    background-color: #ffc107;
+}
+
+hr{
+    margin: 2em 0;
+}
+
+.margem{
+    margin: 1px;
+}
+
+.card{
+    margin: 5px;
+    box-shadow: 5px 5px 32px 0px #83828280;
+}
+
+.sombra{
+    box-shadow: 5px 5px 32px 0px #8b8b8b38;
+}
+
